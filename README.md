@@ -59,8 +59,4 @@ To build the project yourself, you will need the .NET 8 SDK installed.
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-Support
 
-If you find this project useful and would like to support its development, you can do so via the links below:
-
-    [DonationAlerts / Boosty Link Here]
